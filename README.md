@@ -1,4 +1,4 @@
-# E-Commerce App
+# Book-Purchasing App
 
 A Flutter-based e-commerce app with user authentication (login/signup) and product listing functionalities. The app communicates with a backend server built using Node.js, Express, MySQL2, bcryptjs, and body-parser.
 
